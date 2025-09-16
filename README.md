@@ -37,7 +37,7 @@ To run this project in your local environment, follow these steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/diyyo/finance-tracker.git](https://github.com/diyyo/finance-tracker.git)
+    git clone https://github.com/diyyo/finance-tracker.git
     cd finance-tracker
     ```
 
