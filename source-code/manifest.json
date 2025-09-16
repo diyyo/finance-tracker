@@ -1,0 +1,21 @@
+{
+  "name": "Budget by diyyo",
+  "short_name": "diyyo Budget",
+  "description": "Aplikasi catatan keuangan pribadi by diyyo White",
+  "start_url": "/budget/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "../assets/img/budget.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../assets/img/budget.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
