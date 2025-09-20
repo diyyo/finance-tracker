@@ -21,15 +21,11 @@ A simple, modern, and responsive web-based personal finance tracker application.
 * **User Management:** View a list of all users, their status (active/banned), and perform ban/unban actions.
 * **Global Transaction Management:** Admins can view, add, edit, and delete transactions for any user.
 
-## ⚙️ Tech Stacks
+## ⚙️ Tech Stack
 
-* **Frontend:**
-    * HTML
-    * [Tailwind CSS](https://tailwindcss.com/)
-    * [Font Awesome](https://fontawesome.com/)
-* **Backend & Database:**
-    * [Firebase Authentication](https://firebase.google.com/docs/auth)
-    * [Firebase Realtime Database](https://firebase.google.com/docs/database)
+-   Frontend: HTML, CSS, Tailwind CSS, JavaScript 
+-   Firebase SDKs: Authentication, Realtime Database
+-   Tools: Firebase CLI
 
 ## ❔ How to Use?
 
