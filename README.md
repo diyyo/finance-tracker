@@ -4,9 +4,9 @@
 
 A simple, modern, and responsive web-based personal finance tracker application. Built with HTML, Tailwind CSS, and powered by Firebase for authentication and a real-time database.
 
-## Key Features
+## 🔑 Key Features
 
-### User Features
+### 👤 User Features
 * **Google Authentication:** Log in easily and securely with a Google account.
 * **Financial Dashboard:** View a real-time summary of total income, expenses, and balance.
 * **Transaction Management (CRUD):** Add, view, edit, and delete income or expense transactions.
@@ -16,12 +16,12 @@ A simple, modern, and responsive web-based personal finance tracker application.
 * **Pagination:** Easy navigation for a large number of transactions.
 * **Progressive Web App (PWA):** Can be installed on mobile or desktop devices for a native app-like experience.
 
-### Administrator Features
+### 🔒 Administrator Features
 * **Admin Panel:** A dedicated page to manage all application data.
 * **User Management:** View a list of all users, their status (active/banned), and perform ban/unban actions.
 * **Global Transaction Management:** Admins can view, add, edit, and delete transactions for any user.
 
-## Tech Stack
+## ⚙️ Tech Stacks
 
 * **Frontend:**
     * HTML
@@ -31,7 +31,7 @@ A simple, modern, and responsive web-based personal finance tracker application.
     * [Firebase Authentication](https://firebase.google.com/docs/auth)
     * [Firebase Realtime Database](https://firebase.google.com/docs/database)
 
-## Installation and Configuration
+## ❔ How to Use?
 
 To run this project in your local environment, follow these steps:
 
@@ -89,7 +89,7 @@ To run this project in your local environment, follow these steps:
     * Open the `index.html` file directly in your browser.
     * For the best experience, it's recommended to use an extension like "Live Server" in Visual Studio Code to run a local development server.
 
-## License
+## ⚖️ License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
